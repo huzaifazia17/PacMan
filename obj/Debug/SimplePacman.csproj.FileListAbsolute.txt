@@ -1,0 +1,27 @@
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\bin\Debug\SimplePacman.exe.config
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\bin\Debug\SimplePacman.exe
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\bin\Debug\SimplePacman.pdb
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\obj\Debug\SimplePacman.csprojResolveAssemblyReference.cache
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\obj\Debug\SimplePacman.Form1.resources
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\obj\Debug\SimplePacman.Properties.Resources.resources
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\obj\Debug\SimplePacman.csproj.GenerateResource.Cache
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\obj\Debug\SimplePacman.exe
+c:\users\zia\documents\visual studio 2017\Projects\SimplePacman\obj\Debug\SimplePacman.pdb
+D:\Other Games\VS Games\SimplePacman\bin\Debug\SimplePacman.exe.config
+D:\Other Games\VS Games\SimplePacman\obj\Debug\SimplePacman.exe
+D:\Other Games\VS Games\SimplePacman\obj\Debug\SimplePacman.pdb
+D:\Other Games\VS Games\SimplePacman\bin\Debug\SimplePacman.exe
+D:\Other Games\VS Games\SimplePacman\bin\Debug\SimplePacman.pdb
+D:\Other Games\VS Games\SimplePacman\obj\Debug\SimplePacman.csprojResolveAssemblyReference.cache
+D:\Other Games\VS Games\SimplePacman\obj\Debug\SimplePacman.Form1.resources
+D:\Other Games\VS Games\SimplePacman\obj\Debug\SimplePacman.Properties.Resources.resources
+D:\Other Games\VS Games\SimplePacman\obj\Debug\SimplePacman.csproj.GenerateResource.Cache
+E:\VS Games\SimplePacman\bin\Debug\SimplePacman.exe.config
+E:\VS Games\SimplePacman\obj\Debug\SimplePacman.exe
+E:\VS Games\SimplePacman\obj\Debug\SimplePacman.pdb
+E:\VS Games\SimplePacman\bin\Debug\SimplePacman.exe
+E:\VS Games\SimplePacman\bin\Debug\SimplePacman.pdb
+E:\VS Games\SimplePacman\obj\Debug\SimplePacman.csprojResolveAssemblyReference.cache
+E:\VS Games\SimplePacman\obj\Debug\SimplePacman.Form1.resources
+E:\VS Games\SimplePacman\obj\Debug\SimplePacman.Properties.Resources.resources
+E:\VS Games\SimplePacman\obj\Debug\SimplePacman.csproj.GenerateResource.Cache

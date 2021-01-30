@@ -1,8 +1,3 @@
-﻿//Cael
-//ICS 3U1
-//June 20, 2019
-//Pacman Game
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
